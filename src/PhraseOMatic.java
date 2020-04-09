@@ -3,7 +3,7 @@ import javafx.scene.control.SliderBuilder;
 public class PhraseOMatic{
 
     public static void main(String[] args){
-        String[] wordListOne = {"24/7","B-to-B","dynamic","creative};
+        String[] wordListOne = {"24/7","B-to-B","dynamic","creative"};
         String[] wordListTwo = {"empowered","oriented","shared"};
         String[] wordListThree = {"mindshare","strategy","mission"};
 
