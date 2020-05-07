@@ -11,9 +11,6 @@ public class CodeMagnets {
             if (x == 1) {
                 System.out.print("d");
                 x=x-1;}
-
-
-
             }
 
 
